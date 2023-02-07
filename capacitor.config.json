@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BusCode",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

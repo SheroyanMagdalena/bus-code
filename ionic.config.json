@@ -1,0 +1,8 @@
+{
+  "name": "BusCode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "e664dba4"
+}
